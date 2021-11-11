@@ -1,4 +1,4 @@
-# Python Lectures
+# Python Hero
 
 Este repositório reúne notebooks adaptados a partir de palestras ou posts sobre Python encontrados na web.
 
